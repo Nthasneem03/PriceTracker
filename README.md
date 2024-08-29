@@ -55,10 +55,7 @@ This project is a simple Python script that scrapes product prices from Snapdeal
 
 Feel free to contribute to this project by opening a pull request or an issue if you find any bugs or have suggestions for improvements.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-### Note
+## Note
 
 You can use this script to track prices on any e-commerce website. Just inspect the product page to find the price details in the product URL and check the HTML tag containing the price when using the `find` method.
