@@ -26,10 +26,15 @@ This project is a simple Python script that scrapes product prices from Snapdeal
     ```
 
 2. Install the required libraries:
+   use:
 
     ```bash
     pip install -r requirements.txt
     ```
+    or
+   ```bash
+   pip install bs4
+   pip install requests
 
 ## Usage
 
