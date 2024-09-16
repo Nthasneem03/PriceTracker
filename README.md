@@ -66,6 +66,8 @@ Feel free to contribute to this project by opening a pull request or an issue if
 You can use this script to track prices on any e-commerce website. Just inspect the product page to find the price details in the product URL and check the HTML tag containing the price when using the `find` method.
 
 ## Contributing
+Feel free to fork this repository and submit pull requests. If you find any issues or have suggestions for improvements, please open an issue.
+
 
 
 
